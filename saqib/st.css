@@ -1,0 +1,24 @@
+/* Add your CSS styles here */
+.external-css {
+    background-color: lightyellow;
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+h1 {
+    
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.font {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 40px;
+color: blue;}
+.size{
+    background-color: aquamarine;
+    
+}
